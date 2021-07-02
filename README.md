@@ -10,7 +10,8 @@ Questions:
 4. Create a new column in the dataframe “age_group”. This column should contain the age
 group the respondent belongs to. The age groups are 18-25, 25-40, 40-55 and 55+. The
 dataframe should look like this after the column creation:
-![Screenshot 6_19_2021 10_15_31 PM](https://user-images.githubusercontent.com/54601375/124320178-07aa1b80-db99-11eb-9497-b7ac8f9beb6c.png)
+![1](https://user-images.githubusercontent.com/54601375/124321987-45f50a00-db9c-11eb-8cde-c0c9c5e54414.png)
+
 5. How many samples were collected for each age-group? Which age-group had the most
 samples?
 6. What proportion of the respondents had opted for the RJD party in both the Vote_Now
